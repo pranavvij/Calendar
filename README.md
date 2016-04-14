@@ -1,7 +1,5 @@
 #Calendar
 This repo contains a dynamic calendar which created month based on the month choosed from date picker,the rows in this are created dynaimically based on the number of days in a month.
-[alt text](https://github.com/pranavvij/Calendar/blob/master/images/12986516_708259032647306_1113348939_o.png "CalendarView")
-
 ```
 <com.noc.customcalendar.CalendarView
         android:id="@+id/calendar"
@@ -18,3 +16,5 @@ This repo contains a dynamic calendar which created month based on the month cho
         };
         calendarView.setCalendarListener(listener);
 ```
+Demo: 
+![alt text](https://github.com/pranavvij/Calendar/blob/master/images/12986516_708259032647306_1113348939_o.png "Logo Title Text 1")
