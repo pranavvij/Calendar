@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_primary_color1">#85C7DE</color>
+    <color name="medium_primary_color1">#AED1E6</color>
+    <color name="light_primary_color1">#CFE8EF</color>
+
+    <color name="dark_primary_color">#607D8B</color>
+    <color name="medium_primary_color">#78909C</color>
+    <color name="light_primary_color">#ECEFF1</color>
+    <color name="color_navigation">#607D8B</color>
+    <color name="statusBarColor">#90A4AE</color>
+
+    <color name="dark_primary_color_transparent">#CC607D8B</color>
+    <color name="medium_primary_color_transparent">#CCECEFF1</color>
+    <color name="light_primary_color_transparent">#CCECEFF1</color>
+
+    <color name="light_logo">#8f91c7</color>
+    <color name="dark_logo">#5a7fb8</color>
+    <color name="pleasant_green">#27C46F</color>
+    <color name="light_pleasant_green">#B3F89F</color>
+    <color name="theme_dialer_primary">#0288D1</color>
+    <color name="white">#ffffff</color>
+    <color name="white_transparent">#28ffffff</color>
+    <color name="black">#000000</color>
+    <color name="primarycolor">#673AB7</color>
+    <color name="primarylightcolor">#469DB8</color>
+    <color name="primarycolorDark">#512DA8</color>
+
+    <color name="primarycolor_transparent">#48673AB7</color>
+    <color name="primarylightcolor_transparent">#48469DB8</color>
+    <color name="primarycolorDark_transparent">#48512DA8</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="transparent_black_light">#12000000</color>
+
+    <color name="indigo_700">#303f9f</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="blue">#5C6BC0</color>
+    <color name="darkblue">#2196F3</color>
+    <color name="lightblue">#E3F2FD</color>
+    <color name="transparent_black">#55000000</color>
+    <color name="primary_red">#EB273F</color>
+    <color name="primary_dark_red">#CD1329</color>
+
+    <color name="complementary_blue">#1EAAF1</color>
+    <color name="complementary_blue_dark">#1780B8</color>
+    <color name="soft_complementary_blue">#8ED4F8</color>
+    <color name="complementary_green">#3DB149</color>
+    <color name="complementary_green_dark">#21912B</color>
+    <color name="soft_complementary_green">#9BDCA2</color>
+    <color name="complementary_yellow">#F2C65E</color>
+    <color name="complementary_violet">#BEAAE6</color>
+    <color name="light_sea_green">#3CB371</color>
+    <color name="very_light_sea_green">#B1E1C6</color>
+
+
+    <color name="button_green_bright">#009966</color>
+    <color name="progress_bar_color">#1EAAF1</color>
+
+
+
+    <color name="grey_very_very_light">#F9F9F9</color>
+    <color name="pure_white">#FFFFFF</color>
+
+    <color name="white_card_bg">#fafafa</color>
+    <color name="black_light">#222222</color>
+    <color name="screen_background">#EFEFEF</color>
+
+    <color name="grey">#999999</color>
+    <color name="grey_dark">#666666</color>
+    <color name="grey_light">#CCCCCC</color>
+    <color name="grey_very_light">#EFEFEF</color>
+    <color name="grey_600">#777777</color>
+    <color name="grey_very_dark">#343434</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black_5">#0D000000</color>
+
+    <color name="holo_green_light">#99cc00</color>
+    <color name="holo_orange_light">#ffbb33</color>
+
+    <color name="holo_black_looks_username">#444444</color>
+    <color name="holo_black_looks_time">#AAAAAA</color>
+    <color name="holo_black_looks_time_light">#DDDDDD</color>
+
+    <color name="grey_light_looks_divider">#1A000000</color>
+    <color name="color_shadow">#66000000</color>
+    <!-- New tour colors -->
+    <color name="tour_light_blue">#00BFFF</color>
+    <color name="tour_pure_white">#FFFFFF</color>
+    <color name="color_ripple">#99FFFFFF</color>
+</resources>
